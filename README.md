@@ -1,1 +1,1 @@
-Open PowerShell and copy paste the code in there
+Open PowerShell and copy paste the SUPRISE code in there
